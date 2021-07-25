@@ -1,0 +1,8 @@
+.main-div{
+    display: flex;
+    flex-direction: column;
+}
+
+.removeItems{
+    margin-top: 10px;
+}
